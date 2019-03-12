@@ -22,6 +22,6 @@ Git merge driver for Adobe XD files
           driver = python3 ~/xd-merge.py %A %O %B
 - add the following to your `.gitattributes` file:
 
-       *.json merge=json
-       *.agc merge=json
-       *.xd merge=xd
+      *.json merge=json
+      *.agc merge=json
+      *.xd merge=xd
